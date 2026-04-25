@@ -19,6 +19,27 @@
       "type": "download",
       "url": "https://drivers.certisign.com.br/midias/tokens/gdburti/64bits/2k-xp-vi-7/GDsetupStarsignCUTx64.exe",
       "fileName": "GDsetupStarsignCUTx64.exe"
+    },
+    {
+      "id": "safesign-ic30",
+      "name": "SafeSign IC30 Token",
+      "type": "download",
+      "url": "https://drivers.certisign.com.br/midias/gerenciadores/safesign/64bits/SafeSignIC30124-x64-win-tu-admin.exe",
+      "fileName": "SafeSignIC30124-x64-win-tu-admin.exe"
+    },
+    {
+      "id": "certisign10",
+      "name": "Certisign 10 Token",
+      "type": "download",
+      "url": "https://drivers.certisign.com.br/midias/tokens/safenet/64bits/certisign10.6-x64-10.6.exe",
+      "fileName": "certisign10.6-x64-10.6.exe"
+    },
+    {
+      "id": "pje-office",
+      "name": "PJE Office",
+      "type": "download",
+      "url": "https://pje-office.pje.jus.br/pro/pjeoffice-pro-v2.5.16u-windows_x64.exe",
+      "fileName": "pjeoffice-pro-v2.5.16u-windows_x64.exe"
     }
   ]
 }
