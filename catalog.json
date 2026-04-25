@@ -2,16 +2,18 @@
   "catalogVersion": "2026.04.25.1",
   "apps": [
     {
-      "id": "chrome",
-      "name": "Google Chrome",
-      "type": "winget",
-      "wingetId": "Google.Chrome"
-    },
-    {
       "id": "anydesk",
       "name": "AnyDesk",
-      "type": "winget",
-      "wingetId": "AnyDeskSoftwareGmbH.AnyDesk"
+      "type": "download",
+      "url": "https://download.anydesk.com/AnyDesk.exe",
+      "fileName": "AnyDesk.exe"
+    },
+    {
+      "id": "chrome",
+      "name": "Google Chrome",
+      "type": "download",
+      "url": "https://dl.google.com/chrome/install/GoogleChromeStandaloneEnterprise64.msi",
+      "fileName": "GoogleChromeStandaloneEnterprise64.exe" 
     },
     {
       "id": "certisign-gd-starsign",
