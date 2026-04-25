@@ -1,0 +1,24 @@
+{
+  "catalogVersion": "2026.04.25.1",
+  "apps": [
+    {
+      "id": "chrome",
+      "name": "Google Chrome",
+      "type": "winget",
+      "wingetId": "Google.Chrome"
+    },
+    {
+      "id": "anydesk",
+      "name": "AnyDesk",
+      "type": "winget",
+      "wingetId": "AnyDeskSoftwareGmbH.AnyDesk"
+    },
+    {
+      "id": "certisign-gd-starsign",
+      "name": "Certisign GD StarSign Token",
+      "type": "download",
+      "url": "https://drivers.certisign.com.br/midias/tokens/gdburti/64bits/2k-xp-vi-7/GDsetupStarsignCUTx64.exe",
+      "fileName": "GDsetupStarsignCUTx64.exe"
+    }
+  ]
+}
