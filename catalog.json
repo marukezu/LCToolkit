@@ -23,11 +23,11 @@
       "fileName": "AcroRdrDC2300620320_pt_BR.exe"
     },
     {
-      "id": "java-temurin-17",
-      "name": "Java (Eclipse Temurin 17)",
+      "id": "java",
+      "name": "Java",
       "type": "download",
-      "url": "https://github.com/adoptium/temurin17-binaries/releases/latest/download/OpenJDK17U-jre_x64_windows_hotspot.msi",
-      "fileName": "OpenJDK17U-jre_x64_windows_hotspot.msi"
+      "url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=253194_f7fe8e644f724108bdb54139381e29a7",
+      "fileName": "jre-8u491-windows-i586.exe"
     },
     {
       "id": "certisign-gd-starsign",
