@@ -23,6 +23,13 @@
       "fileName": "AcroRdrDC2300620320_pt_BR.exe"
     },
     {
+      "id": "java-temurin-17",
+      "name": "Java (Eclipse Temurin 17)",
+      "type": "download",
+      "url": "https://github.com/adoptium/temurin17-binaries/releases/latest/download/OpenJDK17U-jre_x64_windows_hotspot.msi",
+      "fileName": "OpenJDK17U-jre_x64_windows_hotspot.msi"
+    },
+    {
       "id": "certisign-gd-starsign",
       "name": "Certisign GD StarSign Token",
       "type": "download",
