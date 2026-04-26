@@ -1,1 +1,12 @@
-
+{
+  "catalogVersion": "2026.04.26.1",
+  "companies": [
+    {
+      "id": "tailor",
+      "name": "Tailor Partners",
+      "urlLogo": "ToDo",
+      "urlAction1": "ToDo",
+      "action1Executable": "ToDo"
+    },
+  ]
+}
