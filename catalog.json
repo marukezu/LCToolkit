@@ -16,6 +16,13 @@
       "fileName": "GoogleChromeStandaloneEnterprise64.exe" 
     },
     {
+      "id": "adobe-reader",
+      "name": "Adobe Acrobat Reader",
+      "type": "download",
+      "url": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620320/AcroRdrDC2300620320_pt_BR.exe",
+      "fileName": "AcroRdrDC2300620320_pt_BR.exe"
+    },
+    {
       "id": "certisign-gd-starsign",
       "name": "Certisign GD StarSign Token",
       "type": "download",
