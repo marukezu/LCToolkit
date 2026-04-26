@@ -4,7 +4,7 @@
     {
       "id": "tailor",
       "name": "Tailor Partners",
-      "urlLogo": "https://github.com/marukezu/LCToolkit/blob/main/images/companies-logo/tailor-partners-logo.png",
+      "urlLogo": "https://raw.githubusercontent.com/marukezu/LCToolkit/refs/heads/main/images/companies-logo/tailor-partners-logo.png",
       "urlAction1": "ToDo",
       "action1Executable": "ToDo"
     },
