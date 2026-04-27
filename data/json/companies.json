@@ -4,8 +4,15 @@
     {
       "id": "tailor",
       "name": "Tailor Partners",
-      "urlLogo": "https://raw.githubusercontent.com/marukezu/LCToolkit/main/images/companies-logo/tailor-partners-logo.png",
+      "urlLogo": "https://raw.githubusercontent.com/marukezu/LCToolkit/main/data/images/companies-logo/tailor-partners-logo.png",
       "urlAction1": "https://app.action1.com/agent/4c73a204-6c64-11ee-86a4-31e757584385/Windows/agent(My_Organization).msi",
+      "action1Executable": "agent(My_Organization).msi"
+    },
+	{
+      "id": "galvao-villani",
+      "name": "Galvão Villani Advogados",
+      "urlLogo": "ToDo",
+      "urlAction1": "https://app.action1.com/agent/edb00aa4-eab9-11ed-821e-89c63913887a/Windows/agent(My_Organization).msi",
       "action1Executable": "agent(My_Organization).msi"
     }
   ]
