@@ -1,0 +1,12 @@
+{
+  "catalogVersion": "2026.04.25.1",
+  "certificado": [
+    {
+      "id": "CEN",
+      "ownerName":
+      "password": "677012",
+      "valid-thru": "10-04-2027",
+      "fileUrl": "https://raw.githubusercontent.com/marukezu/LCToolkit/refs/heads/main/data/certificados/galvao-villani/CEN-2026.pfx"
+    }
+  ]
+}
