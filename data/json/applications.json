@@ -1,0 +1,61 @@
+{
+  "catalogVersion": "2026.04.25.1",
+  "apps": [
+    {
+      "id": "anydesk",
+      "name": "AnyDesk",
+      "type": "download",
+      "url": "https://download.anydesk.com/AnyDesk.exe",
+      "fileName": "AnyDesk.exe"
+    },
+    {
+      "id": "chrome",
+      "name": "Google Chrome",
+      "type": "download",
+      "url": "https://dl.google.com/chrome/install/GoogleChromeStandaloneEnterprise64.msi",
+      "fileName": "GoogleChromeStandaloneEnterprise64.exe" 
+    },
+    {
+      "id": "adobe-reader",
+      "name": "Adobe Acrobat Reader",
+      "type": "download",
+      "url": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2300620320/AcroRdrDC2300620320_pt_BR.exe",
+      "fileName": "AcroRdrDC2300620320_pt_BR.exe"
+    },
+    {
+      "id": "java",
+      "name": "Java",
+      "type": "download",
+      "url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=253194_f7fe8e644f724108bdb54139381e29a7",
+      "fileName": "jre-8u491-windows-i586.exe"
+    },
+    {
+      "id": "certisign-gd-starsign",
+      "name": "Certisign GD StarSign Token",
+      "type": "download",
+      "url": "https://drivers.certisign.com.br/midias/tokens/gdburti/64bits/2k-xp-vi-7/GDsetupStarsignCUTx64.exe",
+      "fileName": "GDsetupStarsignCUTx64.exe"
+    },
+    {
+      "id": "safesign-ic30",
+      "name": "SafeSign IC30 Token",
+      "type": "download",
+      "url": "https://drivers.certisign.com.br/midias/gerenciadores/safesign/64bits/SafeSignIC30124-x64-win-tu-admin.exe",
+      "fileName": "SafeSignIC30124-x64-win-tu-admin.exe"
+    },
+    {
+      "id": "certisign10",
+      "name": "Certisign 10 Token",
+      "type": "download",
+      "url": "https://drivers.certisign.com.br/midias/tokens/safenet/64bits/certisign10.6-x64-10.6.exe",
+      "fileName": "certisign10.6-x64-10.6.exe"
+    },
+    {
+      "id": "pje-office",
+      "name": "PJE Office",
+      "type": "download",
+      "url": "https://pje-office.pje.jus.br/pro/pjeoffice-pro-v2.5.16u-windows_x64.exe",
+      "fileName": "pjeoffice-pro-v2.5.16u-windows_x64.exe"
+    }
+  ]
+}
